@@ -10,4 +10,3 @@ BCA student building toward a career in Digital Forensics & Incident
 Response (DFIR). Currently learning through TryHackMe and the Google 
 Cybersecurity Certificate (Coursera).
 
-## Writeups
