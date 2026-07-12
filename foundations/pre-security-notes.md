@@ -18,3 +18,5 @@ Confirms my focus: DFIR sits fully under Defensive Security.
 I'll build offensive-concept knowledge (attacker techniques via 
 MITRE ATT&CK) only to support detection/investigation — not as 
 a career path itself.
+## Contents
+- [Pre Security Notes](foundations/pre-security-notes.md)
